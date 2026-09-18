@@ -16,6 +16,7 @@ You should have an image of an item in the first section with appropriate altern
 
 
 You should have an h2 element with the text Payment Information within the second section.
+
 You should have a form element within the second section.
 
 
